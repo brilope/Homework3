@@ -1,1 +1,2 @@
 # Homework3
+#In this project, we used numpy to use a dataset for basketball to get the top 100 best players using accuracy. I did this by using a np.arracy for each part and then combining them using the fromarrays. I did use np.errstate to navigate around the errors I was getting about some of the math ending up being divided by zeros and some of the inputing being seen as floats rather than an acceptable input.
